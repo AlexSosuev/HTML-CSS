@@ -1,0 +1,33 @@
+a {
+    text-decoration: none;
+}
+
+.menu{
+    color: cornflowerblue;
+    font-size: 16px;
+    line-height: 20px;
+}
+
+.heading_1{
+    font-style: normal;
+    font-weight: 300;
+    font-size: 18px;
+    line-height: 30px;
+    color: #7D7987
+}
+
+.paragraph{
+    font-style: normal;
+    font-weight: 300;
+    font-size: 18px;
+    line-height: 30px;
+    color: #7D7987
+}
+
+.heading_2{
+    color: coral;
+    font-style: normal;
+    font-weight: 700;
+    font-size: 36px;
+    line-height: 8
+}
